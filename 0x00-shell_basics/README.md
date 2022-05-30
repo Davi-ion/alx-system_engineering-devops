@@ -1,1 +1,1 @@
-Made 0-current_working_directory an executable file
+Displays list of files in current directory
